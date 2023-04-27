@@ -1,3 +1,3 @@
 # Color-Works
-Shamika'a site
+Drawing Exhibition Website
 https://aayushhn123.github.io/Color-Works/
